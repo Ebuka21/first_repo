@@ -1,6 +1,7 @@
-# Example Repository
-This is my first repo
-Testing testing
-Hello New World!!!!
+# Example repository
 
-.md == Markdown
+This is my first repository 
+Testing testing
+Hello New World!!!!!
+
+different from the one sent from Visual Studio
