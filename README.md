@@ -5,3 +5,5 @@ Testing testing
 Hello New World!!!!!
 
 different from the one sent from Visual Studio
+
+New file adding to repository
